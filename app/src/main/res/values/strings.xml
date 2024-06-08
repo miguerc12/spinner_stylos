@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">tarea_temas_spinner</string>
+    <string name="usuario">usuario</string>
+    <string name="contraseña">contraseña</string>
+    <string name="login">LOGIN</string>
+    <string name="registro">REGISTRO</string>
+    <string name="contraseña_olvidada">OLVIDO USTED SU CONTRASEÑA?</string>
+
+    <string-array name="styles_array">
+        <item>Estilo 1</item>
+        <item>Estilo 2</item>
+        <item>Estilo 3</item>
+    </string-array>
+</resources>

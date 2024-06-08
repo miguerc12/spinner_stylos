@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+
+    <!-- Estilo 1 -->
+    <style name="Estilo1">
+        <item name="colorFondo">@color/style1_fondo</item>
+        <item name="colorBoton">@color/style1_boton</item>
+        <item name="colorTexto">#FFFFFF</item>
+    </style>
+
+    <!-- Estilo 2 -->
+    <style name="Estilo2">
+        <item name="colorFondo">@color/style2_fondo</item>
+        <item name="colorBoton">@color/style2_boton</item>
+        <item name="colorTexto">#000000</item>
+    </style>
+
+    <!-- Estilo 3 -->
+    <style name="Estilo3">
+        <item name="colorFondo">@color/style3_fondo</item>
+        <item name="colorBoton">@color/style3_boton</item>
+        <item name="colorTexto">#FF0000</item>
+    </style>
+
+</resources>
